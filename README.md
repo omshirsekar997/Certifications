@@ -8,8 +8,8 @@ certified, www.skillcourse.in).
 
 ## 🗂️ Certificates
 
-| # | Course | Issuer | Date | File |
-|---|--------|--------|------|------|
+| # | Course | Issuer | Date |
+|---|--------|--------|------|
 | 1 | Power BI Micro Course | SkillCourse – Satish Dhawale | 31/03/2026 |
 | 2 | 30 Days AI-Powered Excel Micro Course | SkillCourse – Satish Dhawale | 23/04/2026 |
 | 3 | 30 Days SQL Micro Course | SkillCourse – Satish Dhawale | 03/05/2026 |
