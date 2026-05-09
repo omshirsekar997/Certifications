@@ -11,8 +11,8 @@ platforms and institutions.
 | # | Course | Issuer | Date | File |
 |---|--------|--------|------|------|
 | 1 | Power BI Micro Course | SkillCourse - Satish Dhawale | 31/03/2026 | [View Certificate](./Power_BI_Certificate.jpeg) |
-| 2 | 30 Days AI-Powered Excel Micro Course | SkillCourse - Satish Dhawale | 23/04/2026 | [View Certificate](./Ai_Excel_Certificate.png) |
-| 3 | 30 Days SQL Micro Course | SkillCourse - Satish Dhawale | 03/05/2026 | [View Certificate](./SQL_Certificate.png) |
+| 2 | AI-Powered Excel Micro Course | SkillCourse - Satish Dhawale | 23/04/2026 | [View Certificate](./Ai_Excel_Certificate.png) |
+| 3 | SQL Micro Course | SkillCourse - Satish Dhawale | 03/05/2026 | [View Certificate](./SQL_Certificate.png) |
 | 4 | Introduction to Data Analytics | IBM (Coursera) | 06/05/2026 | [View Certificate](./IBM_Intro_Data_Analytics.png) |
 | 5 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | 09/05/2026 | [View Certificate](./Tata_GenAI_Data_Analytics.png) |
 
