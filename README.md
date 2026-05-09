@@ -10,9 +10,9 @@ platforms and institutions.
 
 | # | Course | Issuer | Date | File |
 |---|--------|--------|------|------|
-| 1 | Power BI Micro Course | SkillCourse – Satish Dhawale | 31/03/2026 | [View Certificate](./Power_BI_Certificate.jpeg) |
-| 2 | 30 Days AI-Powered Excel Micro Course | SkillCourse – Satish Dhawale | 23/04/2026 | [View Certificate](./Ai_Excel_Certificate.png) |
-| 3 | 30 Days SQL Micro Course | SkillCourse – Satish Dhawale | 03/05/2026 | [View Certificate](./SQL_Certificate.png) |
+| 1 | Power BI Micro Course | SkillCourse - Satish Dhawale | 31/03/2026 | [View Certificate](./Power_BI_Certificate.jpeg) |
+| 2 | 30 Days AI-Powered Excel Micro Course | SkillCourse - Satish Dhawale | 23/04/2026 | [View Certificate](./Ai_Excel_Certificate.png) |
+| 3 | 30 Days SQL Micro Course | SkillCourse - Satish Dhawale | 03/05/2026 | [View Certificate](./SQL_Certificate.png) |
 | 4 | Introduction to Data Analytics | IBM (Coursera) | 06/05/2026 | [View Certificate](./IBM_Intro_Data_Analytics.png) |
 | 5 | GenAI Powered Data Analytics Job Simulation | Tata (Forage) | 09/05/2026 | [View Certificate](./Tata_GenAI_Data_Analytics.png) |
 
@@ -20,16 +20,16 @@ platforms and institutions.
 
 ## 🛠️ Skills Covered
 
-- **Power BI** — Data modeling, DAX measures (MTD/QTD/YTD), Power Query, interactive dashboards
-- **Advanced Excel (AI-Powered)** — AI-assisted formulas, data analysis, automation techniques
-- **SQL** — Querying, filtering, aggregations, joins, and database fundamentals
-- **Data Analytics Fundamentals** — Data lifecycle, analysis methodologies, tools ecosystem (IBM)
-- **GenAI in Analytics** — AI-powered data analysis techniques in a real-world business context (Tata)
+- **Power BI** - Data modeling, DAX measures (MTD/QTD/YTD), Power Query, interactive dashboards
+- **Advanced Excel (AI-Powered)** - AI-assisted formulas, data analysis, automation techniques
+- **SQL** - Querying, filtering, aggregations, joins, and database fundamentals
+- **Data Analytics Fundamentals** - Data lifecycle, analysis methodologies, tools ecosystem (IBM)
+- **GenAI in Analytics** - AI-powered data analysis techniques in a real-world business context (Tata)
 
 ---
 
 ## 👤 About
 
 **Om Shirsekar**
-BMS (Finance) — Shankar Narayan College, University of Mumbai
+BMS (Finance) - Shankar Narayan College, University of Mumbai
 📧 E-mail : [om.shirsekar.997@gmail.com] | 🔗 LinkedIn : [(https://www.linkedin.com/in/om-shirsekar-1a769a326)]
